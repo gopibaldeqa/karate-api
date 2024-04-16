@@ -1,0 +1,7 @@
+{
+    "requestBody": {
+        "realm": "abcd",
+        "userName": "*****",
+        "password": "*****"
+    }
+}
